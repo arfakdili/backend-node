@@ -1,0 +1,17 @@
+{
+  "name": "consumedata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "PORT=3000 node server.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10",
+    "got": "^11.8.6"
+  }
+}
